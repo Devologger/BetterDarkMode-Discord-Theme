@@ -26,7 +26,9 @@
 .folderIconWrapper-1oRIZr,
 .searchBar-zdmu7v,
 .theme-dark .headerClickable-zGQJz3,
-.theme-dark .headerDefault-1e6yjj {
+.theme-dark .headerDefault-1e6yjj, 
+.wrapper-1NNaWG,
+.inspector-DFKXwB {
   background-color: var(--betterdarkmode-bg2) !important;
 }
 .medium-2NClDM .input-2m5SfJ,
@@ -75,7 +77,10 @@ input.input-2m5SfJ {
 .header-JUTO-g,
 .scrollerInner-2PPAp2,
 .titleContainer-3fPic2,
-.wrapper-1gVUIN.minimum-fXpVNc {
+.wrapper-1gVUIN.minimum-fXpVNc,
+.spamBanner-1auiob,
+main.chatContent-3KubbW,
+.upsell-3B1lnN{
   background-color: var(--betterdarkmode-bg);
 }
 .container-2O1UgZ,
