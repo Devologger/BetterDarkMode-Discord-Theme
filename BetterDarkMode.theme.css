@@ -1,11 +1,11 @@
 /**
   * @name BetterDarkMode
   * @author LeBronzPlayz#6413
-  * @version 1.1.0
+  * @version 2.0.0
   * @description Deeper blacks with enchanced UI, source reforked from DevEvil#8745 github link to his source is given.
   * @authorId 311846416836329472
-  * @source https://devologger.github.io/betterdarkmode/
-  * @website das
+  * @source https://github.com/Devologger/BetterDarkMode-Discord-Theme
+  * @website https://devologger.github.io/betterdarkmode/
   * @invite 36UJ2fYkQg
 */
 @import url('https://devologger.github.io/betterdarkmode/theme/BetterDarkMode.theme.css');
@@ -15,5 +15,5 @@
   --betterdarkmode-sec: #f9f9f9;
   --betterdarkmode-links: #ffffff;
   --betterdarkmode-mention-button: #202020;
-  --betterdarkmode-home-icon: url(https://i.pinimg.com/originals/05/10/f4/0510f4e596283c0d961e4338565a93f3.gif);
+  --betterdarkmode-home-icon: url(https://devologger.github.io/betterdarkmode/theme/logo.gif);
 }
