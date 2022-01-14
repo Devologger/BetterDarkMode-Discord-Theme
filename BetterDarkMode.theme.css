@@ -4,10 +4,11 @@
   * @version 1.1.0
   * @description Deeper blacks with enchanced UI, source reforked from DevEvil#8745 github link to his source is given.
   * @authorId 311846416836329472
-  * @source https://github.com/Devologger/BetterDarkMode-Discord-Theme
+  * @source https://devologger.github.io/betterdarkmode/
+  * @website das
   * @invite 36UJ2fYkQg
 */
-@import url('https://raw.githack.com/Devologger/BetterDarkMode-Discord-Theme/main/css/BetterDarkMode.theme.css');
+@import url('https://devologger.github.io/betterdarkmode/theme/BetterDarkMode.theme.css');
 :root {
   --betterdarkmode-bg: #181818;
   --betterdarkmode-bg2: #252525;
