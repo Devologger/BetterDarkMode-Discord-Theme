@@ -21,6 +21,8 @@
     <a href="https://github.com/Devologger/BetterDarkMode-Discord-Theme/issues">Report Bug</a>
     ·
     <a href="https://github.com/Devologger/BetterDarkMode-Discord-Theme/issues">Request Feature</a>
+    ·
+    <a href="https://devologger.github.io/betterdarkmode/">Website</a>
   </p>
 </div>
 
