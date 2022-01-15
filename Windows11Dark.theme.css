@@ -9,7 +9,7 @@
   * @website https://devologger.github.io/Windows11Dark
 
 */
-@import url('https://devologger.github.io/betterdarkmode/theme/Windows11Dark.theme');
+@import url('https://devologger.github.io/betterdarkmode/theme/Windows11Dark.theme.css');
 :root {
   --win10darkmode-bg: #202020;
   --win10darkmode-bg2: #2b2b2b;
