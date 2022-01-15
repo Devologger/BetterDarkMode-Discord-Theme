@@ -56,7 +56,7 @@
 
 [![BetterDarkMode][product-screenshot]](https://devologger.github.io/betterdarkmode/)
 
-Cleaner discord UI with deeper dark colors to match new standards.<br>
+Cleaner discord UI with deeper dark colors to match new standards. Available in Windows 11 dark mode colors. <br>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -73,9 +73,9 @@ In order to use BetterDarkMode, you need BetterDiscord
 ### Installation
 
 1. Install [BetterDiscord](https://betterdiscord.app/)
-2. Clone the repo or download latest [release](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases) of BetterDarkMode
+2. Clone the repo or download latest [release](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases) of BetterDarkMode/Windows11Dark
 3. Open Discord Settings, navigate to Themes and Click on Open Themes folder
-4. Drag [BetterDarkMode.theme.css](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases/latest/download/BetterDarkMode.theme.css) in the Themes folder
+4. Drag [BetterDarkMode.theme.css](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases/latest/download/BetterDarkMode.theme.css) or [Windows11Dark.theme.css](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases/latest/download/Windows11Dark.theme.css) in the Themes folder
 5. Head back to Discord, find in the list of Themes BetterDarkMode and enable the Toggle to enable the theme.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
