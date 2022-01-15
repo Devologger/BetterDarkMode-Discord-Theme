@@ -75,7 +75,7 @@ In order to use BetterDarkMode, you need BetterDiscord
 1. Install [BetterDiscord](https://betterdiscord.app/)
 2. Clone the repo or download latest [release](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases) of BetterDarkMode
 3. Open Discord Settings, navigate to Themes and Click on Open Themes folder
-4. Drag [BetterDarkMode.theme.css](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases/latest/download/BetterDarkMode.theme.css) in the Thmes folder
+4. Drag [BetterDarkMode.theme.css](https://github.com/Devologger/BetterDarkMode-Discord-Theme/releases/latest/download/BetterDarkMode.theme.css) in the Themes folder
 5. Head back to Discord, find in the list of Themes BetterDarkMode and enable the Toggle to enable the theme.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
