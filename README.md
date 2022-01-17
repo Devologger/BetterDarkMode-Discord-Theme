@@ -45,7 +45,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -113,16 +112,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Devologger - Devologgerweb@yahoo.com
 
 Project Link: [BetterDarkMode](https://github.com/Devologger/BetterDarkMode-Discord-Theme/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Forked from Dark+ DevEvil99 Theme](https://github.com/DevEvil99/DarkPlus-Discord-Theme)
-* [Support DevEvil99 server](https://discord.gg/jsQ9UP7kCA)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
