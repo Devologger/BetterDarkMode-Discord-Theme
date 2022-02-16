@@ -8,6 +8,7 @@
   * @invite 36UJ2fYkQg
   * @website https://devologger.github.io/betterdarkmode/
 */
+@import url('https://devologger.github.io/betterdarkmode/theme/BetterDarkMode.theme.css');
 :root {
   --FluidUI-backcolor: #202020;
   --FluidUI-secondary: #2b2b2b;
